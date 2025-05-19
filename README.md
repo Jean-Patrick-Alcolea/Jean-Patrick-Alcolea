@@ -1,4 +1,4 @@
-# Jean_Patrick_Alcolea
+# Jean Patrick Alcolea
 
 
 🎯 ** Data Analyst | Développeur Web | Passionné par l’IA**
