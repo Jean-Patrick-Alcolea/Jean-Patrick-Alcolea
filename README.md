@@ -1,7 +1,7 @@
 # Jean Patrick Alcolea
 
 
-🎯 ** Data Analyst | Développeur Web | Passionné par l’IA**
+🎯 **Data Analyst | Développeur Web | Passionné par l’IA**
 
 Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets personnels, mes explorations en science des données, mes dashboards interactifs et mon apprentissage continu en développement web et en intelligence artificielle.
 
