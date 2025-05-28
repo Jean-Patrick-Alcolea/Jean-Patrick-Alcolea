@@ -49,9 +49,9 @@ Analyse du marché immobilier à partir de données pour comprendre les tendance
 
 - Email : [jeanpatrickalcolea@gmail.com](mailto:jeanpatrickalcolea@gmail.com)
 - LinkedIn : [Mon profil LinkedIn](https://www.linkedin.com/in/patrick-alcolea-94ba691b5/)
-- GitHub : Tu y es déjà 😉
+- GitHub : Vous y êtes déjà 😉
 
 ---
 
-> *Merci de visiter mon profil ! N'hésite pas à regarder mes projets ou à me contacter pour échanger.*
+> *Merci de consulter mon profil. N'hésitez pas à découvrir mes projets ou à me contacter pour échanger.*
 
